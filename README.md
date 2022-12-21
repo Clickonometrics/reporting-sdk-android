@@ -1,14 +1,13 @@
 # Clickonometrics reporting SDK Android
 
 ## Installation
-
 Add this dependency to your module's `build.gradle` file:
 
 **Kotlin**
 ```kotlin
 dependencies {
 	...
-	implementation("io.github.clickonometrics.android:clickonometrics:1.0")
+	implementation("io.github.clickonometrics.android:clickonometrics:1.1")
 }
 ```
 
@@ -16,7 +15,7 @@ dependencies {
 ```groovy
 dependencies {
 	...
-	implementation 'io.github.clickonometrics.android:clickonometrics:1.0'
+	implementation 'io.github.clickonometrics.android:clickonometrics:1.1'
 }
 ```
 

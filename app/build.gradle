@@ -34,7 +34,7 @@ android {
 
 dependencies {
     //add Clickonometrics SDK library
-    implementation("io.github.clickonometrics.android:clickonometrics:1.0")
+    implementation("io.github.clickonometrics.android:clickonometrics:1.1")
 
     implementation 'androidx.core:core-ktx:1.9.0'
     implementation 'androidx.appcompat:appcompat:1.5.1'
