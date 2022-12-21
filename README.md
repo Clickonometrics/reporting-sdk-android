@@ -7,7 +7,7 @@ Add this dependency to your module's `build.gradle` file:
 ```kotlin
 dependencies {
 	...
-	implementation("io.github.clickonometrics.android:clickonometrics:1.1")
+	implementation("io.github.clickonometrics.android:clickonometrics:1.1.1")
 }
 ```
 
@@ -15,7 +15,7 @@ dependencies {
 ```groovy
 dependencies {
 	...
-	implementation 'io.github.clickonometrics.android:clickonometrics:1.1'
+	implementation 'io.github.clickonometrics.android:clickonometrics:1.1.1'
 }
 ```
 
